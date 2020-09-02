@@ -10,7 +10,9 @@ export default class Login extends React.Component {
     render() {
         return (
             <React.Fragment>
-                hello word
+                <div className="login_wrapper">
+
+                </div>
             </React.Fragment>
         )
     }
